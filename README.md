@@ -1,4 +1,4 @@
-# Dashboard_on_Power-BI-
+# Dashboard_on_Power-BI
 
 This repository contains a dashboard created on Power BI for the [Supermarket sales dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales?datasetId=205965&searchQuery=dashboard). The dashboard provides interactive visualizations that allow users to explore and analyse the data in an easy-to-use format.
 ## Context:
